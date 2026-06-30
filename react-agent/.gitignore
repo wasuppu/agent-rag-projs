@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local environment
+.env
+
+# Lock files (project policy)
+uv.lock
+
+# Local runtime data
+logs
+chroma_db
+md5.txt
